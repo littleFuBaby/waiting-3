@@ -8,6 +8,7 @@
 		<groupId>org.fuys</groupId>
 		<artifactId>ownsbparent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../ownsbparent/pom.xml</relativePath>
 	</parent>
 	<artifactId>ownsbson</artifactId>
 	<name>ownsbson</name>
